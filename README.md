@@ -14,3 +14,4 @@ Both resources walk you through the basics of how Obsidian works and what you ca
 These templates are suggestions of how the Obsidian notetaking tool can be used during an OSINT investigation.  The example data in those files should allow you to make some connections _(see what I did there?)_ between how you record your data during an investigation and some of what the tool can offer FOR FREE!
 Thanks to https://github.com/WebBreacher/ for his main project you could check on his repository.
 Thanks to https://github.com/theNerdInTheHighCastle/obsidian-osint-templates for the Cryptocurrency ideas!
+Thanks to https://github.com/oryon-osint/investigation-templates for the Report Templates!
